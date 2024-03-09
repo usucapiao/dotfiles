@@ -1,6 +1,6 @@
 # dotfiles
 dotfiles
-<h1 align="center">Hi 👋, I'm usucapiao</h1>
+<h1 align="center">usucapiao</h1>
 <h3 align="center">A man in a learning path...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usucapiao&label=Profile%20views&color=0e75b6&style=flat" alt="usucapiao" /> </p>
