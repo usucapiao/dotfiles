@@ -1,0 +1,23 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+# Instalar libva-intel-driver, libvdpau-va-gl
+LIBVA_DRIVER_NAME=i965
+VDPAU_DRIVER=va_gl
+
+# Firefox Hardware acceleleration
+MOZ_ENABLE_WAYLAND=1 firefox
+
+#Java Fonts
+JAVA_FONTS=/usr/share/fonts/TTF
+_JAVA_OPTIONS='-Dawt.useSystemAAFontSettings=lcd'
+
+#Font values may be as follows:
+# off, false, default 	No anti-aliasing
+# on 	Full anti-aliasing
+# gasp 	Use the font's built-in hinting instructions
+# lcd, lcd_hrgb 	Anti-aliasing tuned for many popular LCD monitors
+# lcd_hbgr, lcd_vrgb, lcd_vbgr 	Alternative LCD monitor setting
+
